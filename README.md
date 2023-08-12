@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1rithwik
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning c and python 
-- 💞️ I’m looking to collaborate on tcs
+- 👀 I’m interested in software developer
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate in any good MNC.
 - 📫 How to reach me reddyrrithwik@gmail.com
    ...
 
